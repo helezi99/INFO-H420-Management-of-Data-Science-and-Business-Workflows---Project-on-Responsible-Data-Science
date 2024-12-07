@@ -1,0 +1,13 @@
+jupyterlab
+notebook
+numpy==1.23.5
+pandas
+scikit-learn
+fairlearn
+aif360
+tensorflow
+omnixai==1.3.0
+plotly
+xgboost
+jinja2
+nbformat
