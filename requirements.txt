@@ -11,3 +11,5 @@ plotly
 xgboost
 jinja2
 nbformat
+matplotlib
+hvplot
